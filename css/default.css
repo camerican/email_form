@@ -1,0 +1,11 @@
+body {
+  font-family:verdana;
+  width:500px;
+  margin: 30px auto;
+}
+label {
+  display: block;
+}
+input, textarea {
+  font-size: 1.5em;
+}
